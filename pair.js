@@ -81,15 +81,13 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with anyone.
 
- *Thanks for CASEYRHODES-XMD* 
+ *Thanks for *ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒'𝔖 𝔅𝔒𝔗** 
 
-> Join WhatsApp Channel :- ⤵️
- 
- https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
+> Join WhatsApp Channel :- 
+https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V
 
 Dont forget to fork the repo ⬇️
-
-https://github.com/caseyweb/CASEYRHODES-XMD
+https://github.com/techbroh/IT-TECH-BRO-S-
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*`; 
                         await sock.sendMessage(sock.user.id, {
@@ -98,7 +96,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴍʀ.ᴄᴀsᴇʏʀʜᴏᴅᴇs",
 thumbnailUrl: "",
-sourceUrl: "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
+sourceUrl: "*ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒'𝔖 𝔅𝔒𝔗*",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -107,14 +105,14 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploying CASEYRHODES-XMD*\n\n ◦ *Github:* https://github.com/caseyweb/CASEYRHODES-XMD`;
+                            let desc = `*Don't Share with anyone this code use for deploying *ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒'𝔖 𝔅𝔒𝔗**\n\n ◦ *Github:* https://github.com/techbroh/IT-TECH-BRO-S-`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "CASEYRHODES-XMD",
+title: "*ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒'𝔖 𝔅𝔒𝔗*",
 thumbnailUrl: "https://files.catbox.moe/mg79db.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
+sourceUrl: "https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
